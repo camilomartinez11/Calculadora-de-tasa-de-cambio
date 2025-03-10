@@ -4,6 +4,7 @@
 ![](https://definicion.de/wp-content/uploads/2009/04/tasa-de-cambio.jpg)
 
 Descripción del problema:
+
 Una calculadora de tasa de cambio resuelve varios problemas los cuales serian:
 
 *Errores en calculos manuales. 
